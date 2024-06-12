@@ -1,0 +1,3 @@
+#include "resource.h"
+
+IDB_BITMAP1 BITMAP "C:\\to_do_list_c++\\tt.bmp"
